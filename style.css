@@ -36,3 +36,22 @@
   border-radius: 4px;
   margin-top: 20px;
 }
+
+.about-me {
+  display: flex;
+  justify-content: center;
+}
+
+.text {
+  text-align: right;
+  /* padding: 150px; */
+  padding: 150px 150px 150px 0;
+}
+
+.about-me-h2 {
+  font-size: 35px;
+}
+
+.about-me-p {
+  width: 400px;
+}
