@@ -43,7 +43,7 @@
 }
 
 .text {
-  text-align: right;
+  text-align: left;
   /* padding: 150px; */
   padding: 150px 150px 150px 0;
 }
@@ -54,4 +54,19 @@
 
 .about-me-p {
   width: 400px;
+}
+
+ul {
+  padding-top: 20px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+ul li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.li-img {
+  height: 15px;
 }
