@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-image: url(/images/banner/banner1.png);
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+
+.banner-texts {
+  text-align: right;
+  padding: 100px;
+}
+
+.banner-primary-text {
+  padding-bottom: 20px;
+  font-size: 65px;
+}
+
+.banner-secondary-text {
+  padding-bottom: 20px;
+  font-size: 20px;
+}
