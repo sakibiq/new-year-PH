@@ -42,7 +42,7 @@
   justify-content: right;
   align-items: center;
   height: 100vh;
-  background-image: url(/images/person.png);
+  background-image: url(./images/person.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 300px;
@@ -154,9 +154,13 @@
 
   font-size: 25px;
 }
+.para {
+  padding-right: 700px;
+  color: white;
+}
 .container-btn {
   height: 55px;
-  width: 100px;
+  width: 140px;
   color: #f85c24;
   border: none;
   border-radius: 4px;
